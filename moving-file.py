@@ -1,4 +1,4 @@
-#This script help you move .jpg file from folder to another folder
+####This script help you move .jpg file from folder to another folder####
 
 import glob, os, shutil
 
