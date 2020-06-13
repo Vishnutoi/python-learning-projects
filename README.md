@@ -1,5 +1,3 @@
 # python-learning-projects
 
-
-how i make my new changes
-this is intersting
+This Repo i will be utilizing for updating scripts i create for my python learning
