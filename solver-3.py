@@ -1,6 +1,7 @@
 #Make a morse code translator
 #Test your knowledge of dictionaries with a dictionary that compares
 # {"letter":"more_code"}. Then loop through an inputted string and convert it into morse
+# hello i am doing all this because this is awesome
 
 def to_morse(text):
     eng_to_morse = {

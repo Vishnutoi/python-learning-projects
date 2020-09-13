@@ -1,3 +1,7 @@
+#### this is for test which i am doing al this 
+
+
+
 def sentence_maker(phrase):
     captial = phrase.capitalize()
     if phrase.startswith(("how","what","why" )):
